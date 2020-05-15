@@ -28,4 +28,4 @@ for (int j = 0; j < x; j++){
 cout<<mtrx [j][i] <<"  ";
 }
 cout<<endl<<endl;
-}	Buatlah matriks transpose bersifat dinamis menggunakan persoalan diatas.
+}
